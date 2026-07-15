@@ -9,9 +9,10 @@ Each station appears as a clickable marker on the map.
 ![alt text](image.png)
 
 Clicking a marker opens a popup with the station name and capacity. 
-
+![alt text](image-1.png)
 
 The map is fully interactive — users can zoom, pan, and toggle layers.
+![alt text](image-2.png)
 
 # Why it’s important
 It transforms raw API data into a visual, easy-to-understand map. Users can quickly see where stations are located and how many bikes they can hold. It supports real-world use cases like trip planning, capacity monitoring, and urban mobility analysis.

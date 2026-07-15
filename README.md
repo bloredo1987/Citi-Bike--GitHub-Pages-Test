@@ -6,12 +6,15 @@ It downloads real-time station information from the Citi Bike API using d3.json.
 
 # How it shows the data
 Each station appears as a clickable marker on the map. 
+
 ![alt text](image.png)
 
 Clicking a marker opens a popup with the station name and capacity. 
+
 ![alt text](image-1.png)
 
 The map is fully interactive — users can zoom, pan, and toggle layers.
+
 ![alt text](image-2.png)
 
 # Why it’s important

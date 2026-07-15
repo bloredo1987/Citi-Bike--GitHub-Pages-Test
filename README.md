@@ -1,7 +1,7 @@
 # Citi Bike - Github Pages Test
 This code fetches live Citi Bike station data, turns each station into a map marker with details, and displays everything on an interactive Leaflet map so users can visually explore station locations and capacity — which is important for understanding bike availability and planning trips.
 
-What the code does
+# # What the code does
 It downloads real-time station information from the Citi Bike API using d3.json.
 
 It loops through each station and creates a Leaflet marker showing its location, name, and capacity using Leaflet markers.

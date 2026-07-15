@@ -6,7 +6,7 @@ It downloads real-time station information from the Citi Bike API using d3.json.
 
 # How it shows the data
 Each station appears as a clickable marker on the map. 
-
+![alt text](image.png)
 
 Clicking a marker opens a popup with the station name and capacity. 
 

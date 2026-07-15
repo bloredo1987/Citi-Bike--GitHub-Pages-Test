@@ -1,4 +1,4 @@
-# Citi Bike
+# Citi Bike - API Leaflet Visual Map
 This code fetches live Citi Bike station data, turns each station into a map marker with details, and displays everything on an interactive Leaflet map so users can visually explore station locations and capacity — which is important for understanding bike availability and planning trips.
 
 # What the code does
